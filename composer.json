@@ -1,0 +1,19 @@
+{
+    "name": "sandeep/single_php_form",
+    "description": "This is a simple PHP form with email server implementation for mail delivery",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sandeep\\SinglePhpForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandeep Chowdhury"
+        }
+    ]
+}
