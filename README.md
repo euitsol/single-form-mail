@@ -20,7 +20,7 @@ A simple PHP contact form with email functionality using PHPMailer. This project
 ## Dependencies
 
 - phpmailer/phpmailer (^6.10)
-- vlucas/phpdotenv (^5.6)
+- vlucas/phpdotenv (^5.6)https://github.com/euitsol/single-form-mail.git
 
 ## Installation
 
